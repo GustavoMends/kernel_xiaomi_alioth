@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 4.19.218 Kernel Configuration
+# Linux/arm64 4.19.220 Kernel Configuration
 #
 
 #
@@ -922,7 +922,7 @@ CONFIG_INET_DIAG_DESTROY=y
 CONFIG_TCP_CONG_ADVANCED=y
 # CONFIG_TCP_CONG_BIC is not set
 CONFIG_TCP_CONG_CUBIC=y
-CONFIG_TCP_CONG_WESTWOOD=m
+CONFIG_TCP_CONG_WESTWOOD=y
 # CONFIG_TCP_CONG_HTCP is not set
 # CONFIG_TCP_CONG_HSTCP is not set
 # CONFIG_TCP_CONG_HYBLA is not set
